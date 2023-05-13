@@ -6,11 +6,11 @@ Frontend enviroment for building JavaScript applications
 
 Includes the following features:
 
-- Babel loader
-- Sass loader (Dart Sass)
+- Babel Loader
+- Sass Loader (Dart Sass)
 - HTMLWebpackPlugin
 - WebpackDevServer
-- Assest resource loader
+- Assest Resource Loader
 - Source Maps
 - Caching
 
