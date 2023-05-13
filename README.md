@@ -17,8 +17,13 @@ Includes the following features:
 ### Usage
 
 Run Dev Server (Port 3000)
-`npm run dev`
+
+```
+npm run dev
+```
 
 ### Build for production
 
-`npm run build`
+```
+npm run build
+```
